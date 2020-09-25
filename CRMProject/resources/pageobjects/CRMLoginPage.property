@@ -1,0 +1,4 @@
+CRM_USERNAME_Text_Field=email
+CRM_PASSWORD_Text_Field=password
+CRM_LOGIN_BUTTON_Xpath=//*[@id="ui"]/div/div/form/div/div[3]
+CRM_Homepage_Xpath=//*[@id="top-header-menu"]/div[1]
